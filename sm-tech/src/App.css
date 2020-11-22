@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.app-header {
+  display: flex;
+  background-color: #bec0c4;
+}
+
+.app-footer {
+  text-align: left;
+  background-color: #bec0c4;
+  bottom: 0px;
+  width: 100%;
+  position: fixed;
+  font-size: 12px;
+  font-weight: 500;
+  padding-left: 24px;
+}
+
+.app-section {
+  margin-top: 32px;
+}
+
+.product-section {
+  display: inline-block;
+  width: 100%;
+}
+
+.cesium-viewer-bottom {
+  display: none;
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "BucketList",
+    "url": "../bucketList_pic.jpeg",
+    "description": "Ipsum is simply dummy text of the printing and typesetting industry.Loream ispum has"
+  },
+  {
+    "name": "Document",
+    "url": "../doc_pic.jpeg",
+    "description": "Ipsum is simply dummy text of the printing and typesetting industry.Loream ispum has"
+  },
+  {
+    "name": "Locator",
+    "url": "../location_pic.png",
+    "description": "Ipsum is simply dummy text of the printing and typesetting industry.Loream ispum has"
+  },
+  {
+    "name": "World",
+    "url": "../world_pic.png",
+    "description": "Ipsum is simply dummy text of the printing and typesetting industry.Loream ispum has"
+  },
+  {
+    "name": "Users",
+    "url": "../users_pic.png",
+    "description": "Ipsum is simply dummy text of the printing and typesetting industry.Loream ispum has"
+  }
+]

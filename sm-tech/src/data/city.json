@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Bangalore",
+    "url": "../bangalore_pic.jpg",
+    "description": "Ipsum is simply dummy text of the printing and typesetting industry.Loream ispum has"
+  },
+  {
+    "name": "Mumbai",
+    "url": "../mumbai_pic.jpeg",
+    "description": "Ipsum is simply dummy text of the printing and typesetting industry.Loream ispum has"
+  },
+  {
+    "name": "Delhi",
+    "url": "../delhi_pic.jpeg",
+    "description": "Ipsum is simply dummy text of the printing and typesetting industry.Loream ispum has"
+  },
+  {
+    "name": "Pune",
+    "url": "../pune_pic.jpeg",
+    "description": "Ipsum is simply dummy text of the printing and typesetting industry.Loream ispum has"
+  },
+  {
+    "name": "Goa",
+    "url": "../goa_pic.jpeg",
+    "description": "Ipsum is simply dummy text of the printing and typesetting industry.Loream ispum has"
+  },
+  {
+    "name": "Chennai",
+    "url": "../chennai_pic.jpeg",
+    "description": "Ipsum is simply dummy text of the printing and typesetting industry.Loream ispum has"
+  },
+  {
+    "name": "Shimla",
+    "url": "../shimla_pic.jpeg",
+    "description": "Ipsum is simply dummy text of the printing and typesetting industry.Loream ispum has"
+  }
+]
